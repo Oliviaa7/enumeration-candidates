@@ -10,6 +10,14 @@ require 'active_support/all'
     age: 26
   },
   {
+    id: 6,
+    years_of_experience: 4,
+    github_points: 300,
+    languages: ['Ruby', 'Javascript'],
+    date_applied: 6.days.ago.to_date,
+    age: 39
+  },
+  {
     id: 7,
     years_of_experience: 1,
     github_points: 145,
